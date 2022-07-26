@@ -1,0 +1,37 @@
+body {
+	background: pink;
+	color: rgb(244, 100, 0);
+	margin: 0;
+}
+h3{
+	color: #f30000;
+	font-family: serif;
+	font-weight: normal;
+	line-height: 4em;
+	text-align: center;
+}
+ /* this is a comments in css
+article{
+	color: rgb(120, 120, 120);
+} 
+*/
+.container{
+	widows: 500px;
+	margin: auto;
+}
+.box-1{
+	background-color: greenyellow;
+	color: darkred;
+	line-height: 2em;
+	font-size: 12;
+	font-weight: normal;
+	font-family: Arial sans-serif;
+}
+body{
+	border: 10px darkred solid;
+	border-bottom: 5px dotted;
+	border-right: dashed;
+	padding-top: 5;
+}
+
+

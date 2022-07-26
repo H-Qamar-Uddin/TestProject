@@ -1,0 +1,85 @@
+h1{
+	background-color: tomato;
+	color: white;
+	text-align: center;
+	padding-top: 5px;
+	padding-right: 1px;
+	font-size: 12;
+	font-weight: bold;
+	font-family: monospace;
+
+}
+
+.Manual-color{
+	background-color: gold;
+	color: blueviolet;
+	line-height: 1.6em;
+}
+
+h2{
+	background-color: rgb(60, 160, 60);
+	color: rgb(0, 0, 220);
+	text-align: left;
+	font-weight: normal;
+	font-size: 25px;
+	font-family: serif;
+}
+.RGB-color{
+	background-color: rgb(245, 0, 0);
+	color: rgb(180, 190, 0);
+	line-height: 2em;
+}
+h3{
+	background-color: #000000;
+	color: #ffffff;
+	text-align: right;
+	font-size: 25px;
+	font-weight: normal;
+	font-family: sans-serif;
+}
+.Hexadecimal-color{
+	background-color: #0000ff;
+	color: #ffffff;
+	line-height: 2.5;
+}
+
+body{
+	border: 5px darkred;
+	padding-top: 50px;
+}
+
+/*
+body{
+	border: 10px red;
+	}
+
+body{
+	margin-top: 10px green;
+	margin-right: 50px green;
+	margin-bottom: 10px green;
+	margin-left: 50px green;
+	}
+body{
+	padding: 20px blue;
+	}
+	*/
+
+/*body{
+	margin: 10px 50px 10px 50px;
+	}*/
+
+/*body{
+	margin: 100px 150px;
+	}
+	*/
+/*body{
+	padding: 50px 50px;
+	}*/
+
+/*the above three methods work in a same way for setting margin and padding, margin is a border outside of elements but padding is the space inside content element*/
+/*
+body{
+	padding: 50px 50px;
+	}
+*/
+/*same like margin*/

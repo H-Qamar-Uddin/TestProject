@@ -1,0 +1,110 @@
+
+.block-1 h1{
+	text-align: center;
+	text-transform: capitalize;
+	text-decoration-color: blue;
+}
+.block-1{
+	background-color: rgb(160, 0, 160);
+	color: #ffffff;
+	/*border is the line below the margin space*/
+	border: 5px red dotted;
+	margin-top: 20px;
+	margin-right: 30px;
+	margin-left: 30px;
+	/*margin is the top layer space above from border line or we can say outside from the border.*/
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 30px;
+	/*padding is the space inside border near to the content of the element/property*/
+
+}
+
+/* text formating*/
+.block-2 {
+	border: 5px red solid;
+	background-color: #000000;
+	padding: 20px;
+	margin: 20px;
+	color: #ffffff;
+	font-family: serif;
+	font-weight: normal;
+	font-size: 16px;
+	text-transform: capitalize;
+	letter-spacing: 0.1em;
+	word-spacing: 0.3em;
+	line-height: 1.5em;
+	font-style: italic;
+
+}
+.block-2 h1{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+.block-3 h1{
+	background-color: greenyellow;
+	text-align: center;
+	text-transform: uppercase;
+	color: orange;
+}
+.block-3 ul{
+	background-color: greenyellow;
+	border: 8px blueviolet solid;
+	margin: 0px;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: red;
+	font-family: cursive;
+	border-radius: 15px;
+	list-style: square;
+	list-style-type: upper-roman;
+}
+.block-3 li{
+	padding-top: 5px;
+	border-bottom: 2px dotted hotpink;
+}
+a{
+	text-decoration-line: none;
+}
+a:hover{
+	color: red;
+}
+a:active{
+	color: green;
+}
+
+.my-form{
+	background-color: lightyellow;
+	color: indianred;
+	padding: 25px;
+}
+.my-form .form-group{
+	padding-bottom: 15px;
+}
+.my-form label{
+	display: block;
+}
+.my-form input, my-form textarea{
+	padding: 10px;
+	width: 100%;
+}
+.my-form button{
+	background-color: darkgray;
+	color: white;
+	border: none;
+	padding: 10px,15px;
+}
+.headline-block{
+	float: left;
+	border: 1px solid red;
+	width: 30.3%;
+	padding: 10px;
+	box-sizing: border-box;
+	margin-bottom: 100px;
+
+}
+
